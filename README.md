@@ -3,4 +3,4 @@ gradebook
 
 grade book project
 
-Coming soon!
+This project is coming soon!
